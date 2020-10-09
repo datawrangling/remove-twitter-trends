@@ -4,3 +4,6 @@ div[aria-label="Timeline: Trending now"]{
 a[aria-label="Search and explore"]{
     display:none !important;
 }
+div[aria-label="Who to follow"]{
+    display:none !important;
+}
