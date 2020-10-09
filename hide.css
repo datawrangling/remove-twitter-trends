@@ -1,3 +1,6 @@
 div[aria-label="Timeline: Trending now"]{
     display:none !important;
 }
+div[aria-label="Search and explore"]{
+    display:none !important;
+}
